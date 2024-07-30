@@ -1,1 +1,1 @@
-alert("XSS by bharath");
+<script>alert("XSS by bharath");</script>
